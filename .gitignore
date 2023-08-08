@@ -1,0 +1,4 @@
+node_modules
+type_dispenser/build
+package-lock.json
+.env
